@@ -1,0 +1,4 @@
+docopt
+sphinx
+dyn
+boto3
